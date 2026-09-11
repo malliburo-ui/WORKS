@@ -1,3 +1,6 @@
 {
+  "framework": null,
+  "buildCommand": "node build-media.js",
+  "outputDirectory": ".",
   "trailingSlash": true
 }
